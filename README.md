@@ -4,15 +4,17 @@ Simple Discord and minecraft linkage bot with Discord.js and mineflayer
 
 Installation steps:
 <br>
-1: Edit config.json with your desired settings
+1: Git clone the repo
 <br>
-2: run `npm install discord.js --save`
+2: Edit config.json with your desired settings
 <br>
-3: run `npm install mineflayer --save`
+3: run `npm install discord.js --save`
 <br>
-4: run start.sh (Recommended) or `node index.js`
+4: run `npm install mineflayer --save`
 <br>
-5: If you run into any errors follow the troubleshooting below.
+5: run start.sh (Recommended) or `node index.js`
+<br>
+6: If you run into any errors follow the troubleshooting below.
 <br>
 
 Error troubleshooting:
