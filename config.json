@@ -1,0 +1,13 @@
+{
+    "token": "BOTTOKEN",
+    "prefix": "!",
+    "ip": "2b2t.org",
+    "port": "25565",
+    "username": "hackme@mail.ru",
+    "password": "password1234",
+    "version": "1.12.2",
+    "chatchannelid": "593978545316036641",
+    "guildid": "578342042178945044",
+    "userid": "253266621349494784",
+    "loginmessage": "/server"
+}
