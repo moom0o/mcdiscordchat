@@ -12,6 +12,8 @@ Installation steps:
 <br>
 4: run start.sh (Recommended) or `node index.js`
 <br>
+5: If you run into any errors follow the troubleshooting below.
+<br>
 
 Error troubleshooting:
 <br>
