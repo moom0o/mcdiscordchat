@@ -13,4 +13,5 @@ Discord Commands:
 !look 120 **Makes the bot look a certain way**
 
 Example:
+<br>
 <img src="https://i.imgur.com/cHHOpe6.png" alt="example">
