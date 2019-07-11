@@ -1,6 +1,6 @@
 # mcdiscordchat
 
-Discord and minecraft linkage bot with Discord.js and mineflayer
+Simple Discord and minecraft linkage bot with Discord.js and mineflayer
 
 Installation steps:
 <br>
