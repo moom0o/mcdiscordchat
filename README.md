@@ -24,6 +24,8 @@ Getting a type error: make sure to run `chmod 777 start.sh` and `chmod 777 index
 Getting a permission denied: run `chmod 777 start.sh` and `chmod 777 index.js`
 <br>
 
+You might have to `chmod 777 config.json` as well
+
 Discord Commands:
 <br>
 !send Hi **Sends a chat message to the server (can use commands also)**
