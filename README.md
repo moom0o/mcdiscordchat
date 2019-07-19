@@ -8,6 +8,8 @@ Installation steps:
 <br>
 2: Edit config.json with your desired settings
 <br>
+You might need to install node.
+<br>
 3: run `npm install discord.js --save`
 <br>
 4: run `npm install mineflayer --save`
