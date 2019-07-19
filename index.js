@@ -21,7 +21,7 @@ dbot.on("ready", async () => {
 
 });
 bot.on('login', () => {
-    bot.chat("/server") // message on login
+    bot.chat(config.loginmessage) // message on login
     console.log(`Minecraft bot is ready!`);
 });
 bot.on('message', msg => { 
