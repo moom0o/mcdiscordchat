@@ -25,10 +25,15 @@ bot.on('login', () => {
     console.log(`Minecraft bot is ready!`);
 });
 bot.on('message', msg => { 
-  dbot.guilds.get(config.guildid).channels.get(config.chatchannelid).send({embed: {
-    color: 3447003,
-    description: (msg.toString()) // embed for the chat in discord
-  }});
+      try {
+        dbot.guilds.get(config.guildid).channels.get(config.chatchannelid).send({embed: {
+        color: 3447003,
+        description: (msg.toString()) // embed for the chat in discord
+        }});
+      }
+      catch(error) {
+        console.error(error);
+      }
     });
 dbot.on("message", async message => {
   if(message.author.bot) return;
