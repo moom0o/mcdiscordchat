@@ -10,7 +10,7 @@ Installation steps:
 <br>
 You might need to install node.
 <br>
-3: run `npm install discord.js --save`
+3: run `npm install discord.js@11^ --save`
 <br>
 4: run `npm install mineflayer --save`
 <br>
